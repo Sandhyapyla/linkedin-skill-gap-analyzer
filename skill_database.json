@@ -1,0 +1,22 @@
+{
+  "Data Scientist": ["python", "pandas", "numpy", "sql", "machine learning", "data visualization"],
+  "Frontend Developer": ["html", "css", "javascript", "react", "responsive design"],
+  "Backend Developer": ["python", "django", "flask", "sql", "api", "docker"],
+  "Machine Learning Engineer": ["python", "scikit-learn", "tensorflow", "data preprocessing", "feature engineering"],
+  "DevOps Engineer": ["linux", "docker", "kubernetes", "jenkins", "ci/cd", "aws"],
+  "Cloud Engineer": ["aws", "azure", "gcp", "terraform", "cloud architecture", "linux"],
+  "Mobile App Developer": ["flutter", "dart", "android", "ios", "firebase"],
+  "Cybersecurity Analyst": ["network security", "ethical hacking", "nmap", "burp suite", "firewalls"],
+  "Business Analyst": ["excel", "sql", "power bi", "data visualization", "communication"],
+  "UI/UX Designer": ["figma", "adobe xd", "user research", "wireframing", "prototyping"],
+  "Full Stack Developer": ["html", "css", "javascript", "react", "node.js", "mongodb", "express.js"],
+  "AI Engineer": ["python", "tensorflow", "deep learning", "natural language processing", "pytorch"],
+  "Data Engineer": ["sql", "hadoop", "spark", "python", "airflow", "etl"],
+  "Game Developer": ["unity", "c#", "game physics", "3d modeling", "animation"],
+  "QA Tester": ["manual testing", "selenium", "test cases", "bug tracking", "jira"],
+  "Product Manager": ["agile", "scrum", "roadmap", "market research", "user stories"],
+  "Blockchain Developer": ["solidity", "ethereum", "smart contracts", "web3.js", "cryptography"],
+  "Systems Analyst": ["system design", "uml", "requirement gathering", "database design"],
+  "Technical Writer": ["markdown", "api documentation", "technical blogs", "communication"],
+  "Digital Marketer": ["seo", "google analytics", "email marketing", "social media", "content strategy"]
+}

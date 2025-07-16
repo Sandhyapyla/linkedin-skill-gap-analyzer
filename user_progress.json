@@ -1,0 +1,44 @@
+{
+    "Sandhya Rani": {
+        "job_role": "Data Scientist",
+        "score": 66,
+        "matched_skills": [
+            "numpy",
+            "pandas",
+            "python",
+            "sql"
+        ],
+        "missing_skills": [
+            "data visualization",
+            "machine learning"
+        ]
+    },
+    "Sravani": {
+        "job_role": "Data Engineer",
+        "score": 33,
+        "matched_skills": [
+            "python",
+            "sql"
+        ],
+        "missing_skills": [
+            "airflow",
+            "etl",
+            "hadoop",
+            "spark"
+        ]
+    },
+    "Sandhya": {
+        "job_role": "Data Scientist",
+        "score": 66,
+        "matched_skills": [
+            "numpy",
+            "pandas",
+            "python",
+            "sql"
+        ],
+        "missing_skills": [
+            "data visualization",
+            "machine learning"
+        ]
+    }
+}

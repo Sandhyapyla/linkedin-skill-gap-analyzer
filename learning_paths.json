@@ -1,0 +1,137 @@
+{
+  "Data Scientist": {
+    "Programming": {
+      "Python": {
+        "Core Concepts": ["Syntax", "Control Flow", "Functions"],
+        "Libraries": ["Pandas", "NumPy", "Matplotlib", "Scikit-Learn"]
+      }
+    },
+    "Statistics": {
+      "Basics": ["Mean", "Median", "Std Dev"],
+      "Probability": ["Bayes", "Distributions"]
+    },
+    "Machine Learning": {
+      "Supervised": ["Regression", "Classification"],
+      "Unsupervised": ["Clustering", "PCA"],
+      "Evaluation": ["Confusion Matrix", "Cross Validation"]
+    },
+    "Deployment": ["Flask", "Docker", "Streamlit"]
+  },
+  "Frontend Developer": {
+    "HTML & CSS": ["Semantic HTML", "Flexbox", "Grid", "Media Queries"],
+    "JavaScript": {
+      "Core": ["Variables", "DOM", "Functions", "ES6"],
+      "Frameworks": ["React", "Vue.js", "Tailwind"]
+    },
+    "Version Control": ["Git", "GitHub"],
+    "Deployment": ["Vercel", "Netlify"]
+  },
+  "Backend Developer": {
+    "Languages": ["Python", "Node.js", "Java"],
+    "Databases": {
+      "SQL": ["Joins", "Indexes", "Normalization"],
+      "NoSQL": ["MongoDB", "Redis"]
+    },
+    "APIs": ["REST", "GraphQL"],
+    "DevOps": ["Docker", "CI/CD", "AWS"]
+  },
+  "AI Engineer": {
+    "Math & Stats": ["Linear Algebra", "Probability", "Optimization"],
+    "Deep Learning": ["CNN", "RNN", "Transformers"],
+    "Frameworks": ["TensorFlow", "PyTorch"],
+    "Deployment": ["ONNX", "FastAPI"]
+  },
+  "Cybersecurity Analyst": {
+    "Networking": ["OSI Model", "TCP/IP"],
+    "Security Tools": ["Wireshark", "Nmap", "Burp Suite"],
+    "Ethical Hacking": ["Recon", "Exploitation"],
+    "Certifications": ["CEH", "CompTIA Security+"]
+  },
+  "Cloud Engineer": {
+    "Platforms": ["AWS", "Azure", "GCP"],
+    "IaC": ["Terraform", "CloudFormation"],
+    "Containers": ["Docker", "Kubernetes"]
+  },
+  "Data Analyst": {
+    "Excel": ["Pivot Tables", "VLOOKUP", "Formulas"],
+    "SQL": ["Select", "Group By", "Joins"],
+    "BI Tools": ["Tableau", "Power BI"],
+    "Python/R": ["Pandas", "Matplotlib"]
+  },
+  "DevOps Engineer": {
+    "CI/CD": ["Jenkins", "GitHub Actions"],
+    "Monitoring": ["Prometheus", "Grafana"],
+    "Containers": ["Docker", "Kubernetes"],
+    "Cloud": ["AWS", "GCP"]
+  },
+  "Mobile App Developer": {
+    "Platforms": ["Android", "iOS", "Flutter"],
+    "Languages": ["Dart", "Java", "Swift"],
+    "APIs": ["REST APIs", "Firebase"],
+    "Testing": ["JUnit", "Mockito"]
+  },
+  "UI/UX Designer": {
+    "Design Principles": ["Color Theory", "Typography", "Layout"],
+    "Tools": ["Figma", "Adobe XD", "Sketch"],
+    "Workflow": ["Wireframing", "Prototyping", "User Testing"]
+  },
+  "Game Developer": {
+    "Game Engines": ["Unity", "Unreal"],
+    "Programming": ["C#", "C++"],
+    "3D Modeling": ["Blender", "Maya"],
+    "Animation": ["Physics", "Rigging"]
+  },
+  "AI Prompt Engineer": {
+    "Prompt Design": ["Clarity", "Constraints", "Refinement"],
+    "LLM Knowledge": ["GPT", "Claude", "Gemini"],
+    "APIs": ["OpenAI", "LangChain"],
+    "Ethics": ["Bias", "Fairness"]
+  },
+  "ML Engineer": {
+    "ML Frameworks": ["Scikit-Learn", "XGBoost", "LightGBM"],
+    "Data Pipelines": ["Airflow", "Luigi"],
+    "Model Deployment": ["Docker", "FastAPI", "MLflow"]
+  },
+  "Blockchain Developer": {
+    "Smart Contracts": ["Solidity", "Vyper"],
+    "Platforms": ["Ethereum", "Polygon", "Solana"],
+    "DApps": ["Web3.js", "Metamask"],
+    "Security": ["Audits", "Reentrancy"]
+  },
+  "Product Manager": {
+    "Agile": ["Scrum", "Kanban"],
+    "Tools": ["Jira", "Trello", "Notion"],
+    "Wireframing": ["Balsamiq", "Figma"],
+    "Analytics": ["Google Analytics", "Mixpanel"]
+  },
+  "QA Engineer": {
+    "Manual Testing": ["Test Cases", "Test Plans"],
+    "Automation": ["Selenium", "Cypress"],
+    "Bug Tracking": ["Jira", "Bugzilla"],
+    "Performance Testing": ["JMeter"]
+  },
+  "Digital Marketer": {
+    "SEO": ["On-Page", "Backlinks"],
+    "Email Marketing": ["Mailchimp", "Campaigns"],
+    "Social Media": ["Instagram", "LinkedIn", "YouTube"],
+    "Tools": ["Google Analytics", "HubSpot"]
+  },
+  "Content Creator": {
+    "Planning": ["Scripts", "Calendars"],
+    "Video Editing": ["Premiere Pro", "CapCut"],
+    "Graphics": ["Canva", "Photoshop"],
+    "Engagement": ["Comments", "Polls", "Giveaways"]
+  },
+  "Technical Writer": {
+    "Documentation": ["Markdown", "Swagger"],
+    "Tools": ["Notion", "Docsify"],
+    "APIs": ["REST", "GraphQL"],
+    "Writing": ["Blogs", "Tutorials"]
+  },
+  "Business Analyst": {
+    "Excel": ["Dashboarding", "Pivot Tables"],
+    "SQL": ["Data Extraction", "Joins"],
+    "Visualization": ["Power BI", "Tableau"],
+    "Skills": ["Communication", "Problem Solving"]
+  }
+}
