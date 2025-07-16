@@ -35,27 +35,29 @@ An AI-powered **Streamlit web app** to analyze your **LinkedIn Resume** and any 
 
 ---
 
-## 🛠️ Setup Instructions
+## 🚀 Local Setup Instructions
 
-1. **Clone the repository**
-
-```bash
-git clone https://github.com/YOUR_USERNAME/linkedin-skill-gap-analyzer.git
+1. **Clone the Repo**
+git clone https://github.com/Sandhyapyla/linkedin-skill-gap-analyzer.git
 cd linkedin-skill-gap-analyzer
-Install dependencies
+Create and Activate Virtual Environment
 
-bash
-Copy
-Edit
+python -m venv venv
+venv\Scripts\activate  # Windows
+# OR
+source venv/bin/activate  # Mac/Linux
+Install Dependencies
 pip install -r requirements.txt
-Run the Streamlit app
+Download spaCy Model
+python -m spacy download en_core_web_sm
 
-bash
-Copy
-Edit
+Run the App
 streamlit run app.py
-View in your browser at
-http://localhost:8501
+## 🌐 Live Deployment
+
+🚀 My app is live at:  
+**[🔗 LinkedIn Skill Gap Analyzer (Streamlit)](https://linkedin-skill-gap-analyzer-f3epvxeppqwzlvvz8cc2s3.streamlit.app/)**
+
 
 📁 Project Structure
 
